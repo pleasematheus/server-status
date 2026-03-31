@@ -2,6 +2,11 @@
 
 Script Bash simples para exibir um resumo rápido de uso do servidor no terminal.
 
+## Projeto no roadmap.sh
+
+Este repositorio faz parte de um projeto do roadmap.sh:
+https://roadmap.sh/projects/server-stats
+
 ## O que o script mostra
 
 - Uso total de CPU
