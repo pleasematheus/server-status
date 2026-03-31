@@ -23,6 +23,26 @@ Script Bash simples para exibir um resumo rápido de uso do servidor no terminal
   - `awk`
   - `sed`
 
+## Como clonar para incrementos futuros
+
+1. Clone o repositorio:
+
+```bash
+git clone https://github.com/pleasematheus/server-status
+```
+
+2. Entre na pasta do projeto:
+
+```bash
+cd server-status
+```
+
+3. (Opcional) Crie uma branch para sua melhoria:
+
+```bash
+git checkout -b feat/minha-melhoria
+```
+
 ## Como executar
 
 1. Dê permissao de execucao ao arquivo:
@@ -72,7 +92,7 @@ ubuntu 1234 2.1 1.8 /usr/bin/node ...
 =================
 ```
 
-## Observacoes
+## Observações
 
 - O script foi escrito para ambientes Unix-like.
 - Em Windows nativo, rode pelo WSL para ter os comandos necessarios.
